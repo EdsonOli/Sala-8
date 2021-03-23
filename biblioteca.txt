@@ -1,0 +1,1 @@
+touch nomearquivo.ext : cria um novo arquivo
