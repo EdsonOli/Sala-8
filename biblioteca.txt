@@ -1,2 +1,6 @@
 touch nomearquivo.ext : cria um novo arquivo
+<<<<<<< HEAD
 git branch -r: lista a(s) branch(es) do repositório remoto.
+=======
+git checkout : mudar de branch
+>>>>>>> 4248c9df28b978f08f325a5c065e386f7565d969
