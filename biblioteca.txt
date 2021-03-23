@@ -2,4 +2,4 @@ touch nomearquivo.ext : cria um novo arquivo
 git clone : clona repositório remoto 
 git branch -r: lista a(s) branch(es) do repositório remoto.
 git checkout : mudar de branch
-
+git add * ou git add . : para adicionar todos os arquivos.
