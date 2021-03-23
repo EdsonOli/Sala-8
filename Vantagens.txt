@@ -3,3 +3,5 @@ Vantagens
 Maior integração de código
 Versionamento de código.
 Mais apoio da comunidade.
+Agilidade.
+Histórico de commits em cada arquivo.
